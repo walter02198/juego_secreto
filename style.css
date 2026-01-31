@@ -14,7 +14,7 @@ body {
 }
 
 p {
-    display: block;
+    display: inline-block
 }
 
 body::before {
